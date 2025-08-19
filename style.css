@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.all {
+    border: solid 2px black;
+    height: 500px;
+    width: 400px;
+}
+
+.top {
+    height: 100px;
+}
+
+.first-row {
+    height: 75px;
+    display: flex;
+}
+
+.delete,
+.plus-thing,
+.percente {
+    border: solid 2px black;
+    width: 100px;
+}
+
+#divide {
+    border: solid 2px black;
+    width: 100px;
+}
+
